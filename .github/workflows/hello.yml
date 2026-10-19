@@ -7,7 +7,7 @@ jobs:
       steps: 
         - name: Who is running this?
           run: |
-          echo "Hello from the runner"
-          whoami
-          uname -sr
+            echo "Hello from the runner"
+            whoami
+            uname -sr
 
